@@ -1,7 +1,16 @@
-# 게시물 업로드 성공 직후 기록할 데이터
-history[post_id] = {
-    "title": "실제 상품 이름",  # 예: [특가] 실리콘 조리도구 10종 세트
-    "image_url": "상품 대표 이미지 URL",  # 쿠팡 대표 이미지 링크
-    "affiliate_url": affiliate_url,  # 발급받은 쿠팡 파트너스 링크
-    "uploaded_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-}
+[
+  {
+    "id": "18113810192010886",
+    "title": "매직캔 매직롤 280 화이트 리필",
+    "image_url": "https://i.ibb.co/4Znd8DKk/8eccf6c985e8.png",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6754409&pageKey=8366355412",
+    "date": "2026-09-30 23:21:42"
+  },
+  {
+    "id": "18133785205632594",
+    "title": "인스타 추천 살림 꿀템",
+    "image_url": "https://placehold.co/400x400/png?text=Product",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6754409&pageKey=8366355412",
+    "date": ""
+  }
+]
